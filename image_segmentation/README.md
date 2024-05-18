@@ -1,4 +1,4 @@
-## image_segmentation
+## Image Segmentation Exploration
 
 This directory contains Jupyter Notebooks exploring different image segmentation algorithms. Image segmentation refers to the process of partitioning an image into meaningful segments, typically corresponding to objects or regions of interest. 
 
